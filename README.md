@@ -25,22 +25,24 @@ You can use this list for any purpose, including commercial, provided that you m
 We are not liable and make no warranties regarding the quality or potential impact of the data provided.
 
 ## RSS Feeds
-| Country | CERT | RSS | English? |
-| ------- | ---- | --- | -------- |
+| Country | CERT | RSS | English? | Last Updated |
+| ------- | ---- | --- | -------- | ------------ |
 | Algeria | DZ-CERT | http://www.cerist.dz/index.php/en/?format=feed&type=rss | Yes |
-| Australia | AusCERT | https://auscert.org.au/rss/bulletins/ | Yes |
+| Australia | AusCERT | https://portal.auscert.org.au/rss/bulletins/ | Yes | 2026-01-29 |
 | Austria | CERT.at | https://cert.at/cert-at.en.blog.rss_2.0.xml | Yes |
-| Bangladesh | BGD e-GOV CIRT | https://www.cirt.gov.bd/feed/ | Yes |
-| Belgium | CERT.BE | https://cert.be/en/rss | Yes |
+| Bangladesh | BGD e-GOV CIRT | ~~https://www.cirt.gov.bd/feed/~~ | Yes | 2026-01-29 |
+| Belgium (news) | CERT.BE | https://ccb.belgium.be/news.xml | Yes | 2026-01-29 |
+| Belgium (advisories) | CERT.BE | https://ccb.belgium.be/advisories.xml | Yes | 2026-01-29 |
 | Brazil | CERT.br | https://www.cert.br/rss/certbr-rss.xml | No |
 | Canada (alerts) | Canadian Centre for Cyber Security | https://cyber.gc.ca/webservice/en/rss/alerts | Yes |
 | Canada (news) | Canadian Centre for Cyber Security | https://cyber.gc.ca/webservice/en/rss/news | Yes |
 | Croatia | CERT.hr | https://www.cert.hr/feed/ | No |
 | Czech Republic | NUKIB | https://nukib.gov.cz/rss.xml | No |
-| Denmark | DKCERT | https://www.cert.dk/nyheder/rss | No |
+| Denmark | DKCERT | https://www.cert.dk/news/rss | No | 2026-01-29 |
 | Egypt | EG-CERT | https://www.egcert.eg/feed/ | Yes |
 | Estonia | CERT-EE | https://www.ria.ee/et/news-feed/all/feed | No |
-| EU | CERT-EU | https://cert.europa.eu/cert/Data/newsletter/reviewlatest-SecurityBulletins.xml | Yes |
+| EU (threat intelligence) | CERT-EU | https://cert.europa.eu/publications/threat-intelligence-rss | Yes | 2026-01-29 |
+| EU (security advisories) | CERT-EU | https://cert.europa.eu/publications/security-advisories-rss | Yes | 2026-01-29 |
 | Finland | NCSC-FI | https://www.kyberturvallisuuskeskus.fi/feed/rss/en | Yes |
 | Finland (daily news) | NCSC-FI | https://www.kyberturvallisuuskeskus.fi/sites/default/files/rss/news.xml | Yes |
 | Finland (daily vulns) | NCSC-FI | https://www.kyberturvallisuuskeskus.fi/sites/default/files/rss/vulns.xml | Yes |
@@ -50,24 +52,23 @@ We are not liable and make no warranties regarding the quality or potential impa
 | Hong Kong | HKCERT | https://www.hkcert.org/getrss/security-bulletin | Yes |
 | Hungary | NCSC Hungary | https://nki.gov.hu/figyelmeztetesek/riasztas/feed/ | No |
 | Israel | CERT-IL | https://www.gov.il/he/api/PublicationApi/rss/4bcc13f5-fed6-4b8c-b8ee-7bf4a6bc81c8 | No |
-| Italy | CSIRT Italia | https://csirt.gov.it/data/indexer/rss | No |
+| Italy | CSIRT Italia | https://www.acn.gov.it/portale/feedrss/-/journal/rss/20119/723192 | No | 2026-01-29 |
 | Japan | JPCERT | https://www.jpcert.or.jp/english/rss/jpcert-en.rdf | Yes |
 | Japan | JPCERT (Blog) | https://blogs.jpcert.or.jp/en/atom.xml | Yes |
 | Latvia | CERT.LV | https://cert.lv/en/feed/rss/all | Yes |
-| Libya | NISSA | https://nissa.gov.ly/ | No |
-| Netherlands | NCSC NL | https://feeds.english.ncsc.nl/news.rss | Yes |
+| Libya | NISSA | https://nissa.gov.ly/feed/ | No | 2026-01-29 |
+| Netherlands (news) | NCSC NL | https://feeds.ncsc.nl/nieuws.rss | No | 2026-01-29 |
+| Netherlands (advisories) | NCSC NL | https://advisories.ncsc.nl/rss/advisories | No | 2026-01-29 |
 | Norway| NSM NCSC | https://nsm.no/fagomrader/digital-sikkerhet/nasjonalt-cybersikkerhetssenter/varsler-fra-ncsc/rss/ | No |
 | Poland | CERT.PL | https://cert.pl/en/rss.xml | Yes |
 | Portugal | CNCS Portugal | https://www.cncs.gov.pt/docs/noticias/feed-rss/index.xml | No |
 | Romania | CERT.RO | https://dnsc.ro/feed | No |
-| Singapore | SingCERT | https://www.csa.gov.sg/Content/RSS-Feed | Yes |
+| Singapore | SingCERT | ~~https://www.csa.gov.sg/Content/RSS-Feed~~ | Yes | 2026-01-29
 | Slovakia | SK-CERT | https://www.sk-cert.sk/index.html%3Ffeed=rss | No |
 | Slovenia | SI-CERT | https://www.cert.si/en/category/news/feed/ | Yes |
-| Spain | CCN-CERT | https://www.ccn-cert.cni.es/component/obrss/rss-noticias.feed | No |
-| Spain | CCN-CERT | https://www.ccn-cert.cni.es/component/obrss/rss-ultimas-vulnerabilidades.feed | Yes |
+| Spain | CCN-CERT | https://www.ccn-cert.cni.es/en/communication-events/articles-and-reports.rss | Yes | 2026-01-29 |
 | Sweden | CERT-SE | https://www.cert.se/feed.rss | No |
-| Switzerland | Swiss GovCERT | https://www.govcert.ch/blog/rss.xml | Yes |
-| Switzerland (whitepapers) | Swiss GovCERT | https://www.govcert.ch/whitepapers/rss.xml | Yes |
+| Switzerland | Swiss GovCERT | https://www.newsd.admin.ch/newsd/feeds/rss?lang=en&org-nr=1101 | Yes | 2026-01-29 |
 | UK | UK NCSC | https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml | Yes |
 | Ukraine | CERT-UA | https://cert.gov.ua/api/articles/rss | No |
 | USA | CISA | https://www.cisa.gov/uscert/ncas/all.xml | Yes | 
