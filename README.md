@@ -67,6 +67,7 @@ We are not liable and make no warranties regarding the quality or potential impa
 | Slovakia | SK-CERT | https://www.sk-cert.sk/index.html%3Ffeed=rss | No |
 | Slovenia | SI-CERT | https://www.cert.si/en/category/news/feed/ | Yes |
 | Spain | CCN-CERT | https://www.ccn-cert.cni.es/en/communication-events/articles-and-reports.rss | Yes | 2026-01-29 |
+| Spain | INCIBE-CERT | https://www.incibe.es/en/incibe-cert/alerta-temprana/avisos/feed | Yes | 2026-04-21 |
 | Sweden | CERT-SE | https://www.cert.se/feed.rss | No |
 | Switzerland | Swiss GovCERT | https://www.newsd.admin.ch/newsd/feeds/rss?lang=en&org-nr=1101 | Yes | 2026-01-29 |
 | UK | UK NCSC | https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml | Yes |
